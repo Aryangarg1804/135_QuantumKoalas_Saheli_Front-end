@@ -28,8 +28,8 @@ const ProductDetail = ({}: ProductDetailProps) => {
       descriptionHi: "ग्रामीण भारत के कुशल कारीगरों द्वारा बनाई गई पारंपरिक हथकरघा साड़ियां। प्रत्येक टुकड़ा विभिन्न क्षेत्रों की समृद्ध सांस्कृतिक विरासत का प्रतिनिधित्व करने वाले जटिल पैटर्न के साथ अद्वितीय है। ये साड़ियां पीढ़ियों से चली आ रही पारंपरिक तकनीकों का उपयोग करके बनाई जाती हैं।",
       priceRange: "₹2,500 - ₹15,000",
       images: [
-        "/lovable-uploads/872765bf-19f5-4af0-8712-a149eba16a5d.png",
-        "/lovable-uploads/14bc603f-6019-4975-bc80-94c45f47591c.png"
+        "https://i.pinimg.com/736x/21/aa/d6/21aad68ea6ffbcadc1478237b2f8ad75.jpg",
+        "https://i.pinimg.com/736x/03/b8/15/03b8150f83b1e44653a3c7cbe122b4b9.jpg"
       ],
       features: [
         "100% handwoven cotton or silk",
@@ -55,8 +55,8 @@ const ProductDetail = ({}: ProductDetailProps) => {
       descriptionHi: "पूरे भारत के किसानों से सीधे प्राप्त शुद्ध और प्रामाणिक मसाले। ये मसाले किसी भी हानिकारक रसायन या कीटनाशकों के बिना जैविक खेती के तरीकों का उपयोग करके उगाए जाते हैं। प्रत्येक उत्पाद अधिकतम स्वाद और सुगंध बनाए रखने के लिए सावधानीपूर्वक संसाधित किया जाता है।",
       priceRange: "₹200 - ₹1,000",
       images: [
-        "/lovable-uploads/6aedcb4e-0907-4e35-8835-e4c0a8932a42.png",
-        "/lovable-uploads/126d2b7e-6084-4cd4-8e7d-00945b662fd8.png"
+        "https://i.pinimg.com/736x/9e/2f/8d/9e2f8d1d97af425fd0086b181d77e9ee.jpg",
+        "https://i.pinimg.com/736x/1c/e6/19/1ce619f3f969a90d10c3cc3eef15483f.jpg"
       ],
       features: [
         "100% organic",
@@ -82,8 +82,8 @@ const ProductDetail = ({}: ProductDetailProps) => {
       descriptionHi: "कुशल महिला शिल्पकारों द्वारा बनाई गई हस्तनिर्मित सजावटी वस्तुएं और घरेलू सामान। ये टुकड़े पारंपरिक तकनीकों को समकालीन डिजाइनों के साथ मिलाते हैं ताकि अनूठी वस्तुएं बनाई जा सकें जो किसी भी स्थान पर चरित्र जोड़ती हैं। प्रत्येक उत्पाद अपने निर्माता की सांस्कृतिक विरासत को दर्शाता है।",
       priceRange: "₹500 - ₹5,000",
       images: [
-        "/lovable-uploads/3b1154fc-a9e5-4df6-9312-7784e0521bd9.png",
-        "/lovable-uploads/f7ad498b-82d4-48b0-9e4a-cefcb01c09d6.png"
+        "https://i.pinimg.com/736x/32/ba/95/32ba959188b404fe65c042563c400994.jpg",
+        "https://i.pinimg.com/736x/bc/91/88/bc918872220656ff68553287ac5546f4.jpg"
       ],
       features: [
         "Handcrafted",
@@ -109,8 +109,8 @@ const ProductDetail = ({}: ProductDetailProps) => {
       descriptionHi: "जैविक सामग्री का उपयोग करके पारंपरिक व्यंजनों से बने प्राकृतिक स्किनकेयर उत्पाद। ये उत्पाद प्रभावी, सौम्य स्किनकेयर समाधान बनाने के लिए आधुनिक अनुसंधान के साथ संयुक्त प्राचीन आयुर्वेदिक सूत्रों की शक्ति का उपयोग करते हैं। सभी सामग्री स्थानीय रूप से प्राप्त की जाती है और टिकाऊ रूप से काटी जाती है।",
       priceRange: "₹150 - ₹1,200",
       images: [
-        "/lovable-uploads/9987f7a7-8cba-47af-bd21-dffbb8c2f5ca.png",
-        "/lovable-uploads/926e908c-643e-41a8-bde4-56d395939d89.png"
+        "https://i.pinimg.com/736x/f9/47/d8/f947d80e154238a8327d7bfbfa1c1d90.jpg",
+        "https://i.pinimg.com/736x/4a/96/76/4a9676bf4df18d0172e4c5bedc2d4d10.jpg"
       ],
       features: [
         "100% natural ingredients",

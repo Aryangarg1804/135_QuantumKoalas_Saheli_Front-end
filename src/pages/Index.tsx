@@ -226,7 +226,7 @@ const Index = () => {
         className="relative py-20 md:py-32 overflow-hidden bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('https://i.pinimg.com/736x/8e/b4/9a/8eb49a3d6078bcf9afd38ea7af095720.jpg')",
+            "url('https://i.pinimg.com/736x/db/14/20/db142005750e89471904d48a003ef5e6.jpg')",
         }}
       >
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,#9b87f5,transparent_40%)]"></div>

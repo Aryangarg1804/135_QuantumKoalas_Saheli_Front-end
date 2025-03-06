@@ -38,7 +38,7 @@ const GovernmentSchemes = () => {
         "Attend the in-person interview/verification",
         "Receive approval and disbursement of funds"
       ],
-      imageUrl: "/lovable-uploads/28ca7f61-fdf2-4b48-9f3a-71f4760d9cf6.png",
+      imageUrl: "https://i.pinimg.com/736x/bf/1e/90/bf1e90076ee2ca8a264d79cfc36f3f7d.jpg",
       contactInfo: "Toll-free helpline: 1800-XXX-XXXX, Email: pmmy@gov.in, Website: www.pmmy.gov.in"
     },
     {
@@ -68,7 +68,7 @@ const GovernmentSchemes = () => {
         "Site visit and business viability assessment",
         "Loan sanctioning and disbursement"
       ],
-      imageUrl: "/lovable-uploads/3b1154fc-a9e5-4df6-9312-7784e0521bd9.png",
+      imageUrl: "https://i.pinimg.com/736x/da/0a/ca/da0aca7a3d5ada50f2c41bf2c239ce75.jpg",
       contactInfo: "Contact your nearest nationalized bank or visit www.mudra.org.in"
     },
     {
@@ -98,7 +98,7 @@ const GovernmentSchemes = () => {
         "Attend financial literacy sessions",
         "Utilize the loan amount for income generation activities"
       ],
-      imageUrl: "/lovable-uploads/51897880-5aa1-43a0-9f8c-fb38f836b8ff.png",
+      imageUrl: "https://i.pinimg.com/736x/58/c6/d0/58c6d07e3f885c7ccb7c817f38f3f4b5.jpg",
       contactInfo: "Visit your nearest government bank or call 1800-XXX-XXXX for more information"
     },
     {
@@ -128,7 +128,7 @@ const GovernmentSchemes = () => {
         "Receive account passbook and details",
         "Make regular deposits (minimum ₹250 per year)"
       ],
-      imageUrl: "/lovable-uploads/6aedcb4e-0907-4e35-8835-e4c0a8932a42.png",
+      imageUrl: "https://i.pinimg.com/736x/4f/35/37/4f3537127cd2f41097c71eed51fdcb32.jpg",
       contactInfo: "Visit any post office or authorized banks or call 1800-XXX-XXXX for more information"
     }
   ];
