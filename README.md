@@ -1,73 +1,92 @@
-<<<<<<< HEAD
-# Hack_With_Her_4.0
-=======
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/da1f6b9b-f19d-4edf-86fd-8636448a31fb
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/da1f6b9b-f19d-4edf-86fd-8636448a31fb) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
+# Saheli Sisterhood Space
+A full-stack web application built with React, TypeScript, and Node.js, designed to create a supportive community space for women.
+## 🚀 Features
+- Modern, responsive UI built with React and Tailwind CSS
+- Type-safe development with TypeScript
+- Secure authentication system
+- RESTful API backend
+- MongoDB database integration
+- Real-time updates and notifications
+- Beautiful UI components using shadcn/ui
+## 🛠 Tech Stack
+### Frontend
+- React 18
 - TypeScript
-- React
-- shadcn-ui
+- Vite
 - Tailwind CSS
+- shadcn/ui components
+- React Router DOM
+- React Query
+- Framer Motion
+- Zod for validation
 
-## How can I deploy this project?
+### Backend
+- Node.js
+- Express
+- TypeScript
+- MongoDB with Mongoose
+- JWT Authentication
+- bcrypt for password hashing
+- CORS enabled
 
-Simply open [Lovable](https://lovable.dev/projects/da1f6b9b-f19d-4edf-86fd-8636448a31fb) and click on Share -> Publish.
+## 📋 Prerequisites
 
-## I want to use a custom domain - is that possible?
+- Node.js (v16 or higher)
+- npm or yarn
+- MongoDB
+- Git
+## 🔧 Installation
+1. Clone the repository:
+bash
+git clone https://github.com/yourusername/saheli-sisterhood-space.git
+cd saheli-sisterhood-space
+2. Install frontend dependencies:
+bash
+cd saheli-sisterhood-space-main
+npm install
+3. Install backend dependencies:
+bash
+cd ../backend
+npm install
+4. Create a .env file in the backend directory with the following variables:
+env
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+## 🚀 Running the Application
+1. Start the backend server:
+bash
+cd backend
+npm run dev
+2. Start the frontend development server:
+bash
+cd saheli-sisterhood-space-main
+npm run dev
+The application will be available at:
+- Frontend: http://localhost:5173
+- Backend: http://localhost:5000
+## 📦 Building for Production
+1. Build the backend:
+bash
+cd backend
+npm run build
+2. Build the frontend:
+bash
+cd saheli-sisterhood-space-main
+npm run build
+## 🤝 Contributing
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
->>>>>>> 491cfa6 (Initial commit)
+
+## 📝 License
+This project is licensed under the ISC License - see the LICENSE file for details.
+## 👥 Authors
+Aryan - Initial work
+## 🙏 Acknowledgments
+- shadcn/ui for the beautiful component library
+- The React and TypeScript communities
+- All contributors who have helped shape this project
