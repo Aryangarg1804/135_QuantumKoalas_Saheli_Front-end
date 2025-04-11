@@ -1,5 +1,5 @@
 # Saheli Sisterhood Space
-A full-stack web application built with React, TypeScript, and Node.js, designed to create a supportive community space for women.
+A Full-stack Web application built with React, TypeScript, and Node.js, designed to create a supportive community space for women.
 ## 🚀 Features
 - Modern, responsive UI built with React and Tailwind CSS
 - Type-safe development with TypeScript
